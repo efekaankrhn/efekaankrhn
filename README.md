@@ -1,16 +1,39 @@
-## Hi there 👋
+# Efe Kaan Karhan
 
-<!--
-**efekaankrhn/efekaankrhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Game Developer
+Computer Programming Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Programming student passionate about software development. I work on both applications and games, aiming to improve my problem-solving skills and build efficient, well-structured projects.
+
+---
+
+## Projects
+
+* **Block Cutter Rush** – Mobile puzzle game (in development)
+* Additional small-scale game projects coming soon
+
+---
+
+## Technologies
+
+* Unity
+* C#
+* HTML / CSS / JavaScript
+
+---
+
+## Goals
+
+* Publish my first mobile game on Google Play
+* Improve software development and problem-solving skills
+* Build scalable and high-quality game projects
+
+---
+
+## Contact
+
+GitHub: https://github.com/efekaankrhn
