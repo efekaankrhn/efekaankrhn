@@ -20,9 +20,10 @@ I am a Computer Programming student passionate about software development. I wor
 
 ## Technologies
 
-* Unity
-* C#
-* HTML / CSS / JavaScript
+- Unity  
+- C#  
+- Java  
+- HTML / CSS / JavaScript  
 
 ---
 
